@@ -1,4 +1,4 @@
-HOK Makeup Clone
+#HOK Makeup Clone
 HOK is an online shopping service for makeup products. 
 Features:-
 Functional login and signup page, Checkout page with 
